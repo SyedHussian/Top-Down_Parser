@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="867549eb-de42-4518-a4db-e00a6b7853e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVpFps83hI4m6n9CEhHszRCWz3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Parser">
+    <configuration name="LexArithArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LexArithArray" />
+      <module name="Project_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parser" />
+      <module name="Project_2" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\tah94\Desktop\QC_Classes\Spring_2020\CS_316\Projects\Project_2\src\input_5 C:\Users\tah94\Desktop\QC_Classes\Spring_2020\CS_316\Projects\Project_2\src\output_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LexArithArray" />
+      <item itemvalue="Application.Parser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Parser" />
+        <item itemvalue="Application.LexArithArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867549eb-de42-4518-a4db-e00a6b7853e3" name="Default Changelist" comment="" />
+      <created>1584934014778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584934014778</updated>
+      <workItem from="1584934020213" duration="339000" />
+      <workItem from="1584972178117" duration="2692000" />
+      <workItem from="1585077357053" duration="807000" />
+      <workItem from="1585145179938" duration="26575000" />
+      <workItem from="1585317310478" duration="12246000" />
+      <workItem from="1585362815038" duration="6993000" />
+      <workItem from="1585407951987" duration="44935000" />
+      <workItem from="1585493468470" duration="29272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585540175837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585540175837" />
+    <state x="247" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584972420732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="247" y="275" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584972420732" />
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585540051633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1585540051633" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1585457619366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585457619366" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585540043103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585540043103" />
+    <state x="482" y="118" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585364366643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="118" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1585364366643" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585498120602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585498120602" />
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585498131064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585498131064" />
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1585540176807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585540176807" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1585540176807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585540176807" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1585540176807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585540176807" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1585540176807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585540176807" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1585514476197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585514476197" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1585514476197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585514476197" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1585514476197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585514476197" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1585514476197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585514476197" />
+    <state x="416" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585364450890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="416" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1585364450890" />
+    <state x="774" y="241" width="768" height="672" key="dock-window-1" timestamp="1585537942888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="774" y="241" width="768" height="672" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585537942888" />
+    <state x="490" y="18" width="660" height="824" key="dock-window-2" timestamp="1585539111643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="18" width="660" height="824" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1585539111643" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3" timestamp="1585456529108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1585456529108" />
+    <state x="-6" y="0" width="780" height="830" key="dock-window-4" timestamp="1585459104562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="780" height="830" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1585459104562" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1585538124525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585538124525" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585439274968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585439274968" />
+  </component>
+</project>
