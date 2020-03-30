@@ -310,8 +310,6 @@ public abstract class Parser extends LexArithArray {
         }
     }
 
-
-
     public static void errorMsg(int i)
     {
         errorFound = true;
@@ -338,7 +336,6 @@ public abstract class Parser extends LexArithArray {
     public static void main(String argv[])
     {
         setIO( argv[0], argv[1] );
-        //setIO("C:\\Users\\tah94\\Desktop\\QC_Classes\\Spring_2020\\CS_316\\Projects\\Project_2\\src\\input_5", "C:\\Users\\tah94\\Desktop\\QC_Classes\\Spring_2020\\CS_316\\Projects\\Project_2\\src\\output_5");
 
         setLex();
 
@@ -355,7 +352,6 @@ public abstract class Parser extends LexArithArray {
         {
             IO.displayln(" : Syntax Error, unexpected symbol where } expected");
         }
-
         closeIO();
     }
 
